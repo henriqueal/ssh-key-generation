@@ -6,4 +6,12 @@
 ```
 
 - 2) Configure your 'hosts' to map hostnames to IP addresses:
--- 2.1) teste
+```bash
+## Open hosts file:
+$ sudo gedit /etc/hosts
+
+## Add the follow line:
+192.168.0.1 plataform-project-environment
+192.168.0.2 ocs-gerencia-hom
+192.168.0.3 ocs-gerencia-prd
+```
