@@ -5,7 +5,7 @@
 # chage -M 99999 henriqueal
 ```
 
-- 2) It's easier to remember name than numbers! Configure your 'hosts' to map hostnames to IP addresses:
+- 2) It's easier remember name than numbers! Configure your 'hosts' to map hostnames to IP addresses:
 ```bash
 ## Open hosts file:
 $ sudo gedit /etc/hosts
