@@ -1,5 +1,9 @@
 # Steps to become a developer more faster
 
-1) Turn off the password expiration for an user account:
-# chage -m 0 -M 99999 -I -1 -E -1 dhinesh
+- 1) Turn off the password expiration for user henriqueal:
+```bash
+# chage -M 99999 henriqueal
+```
+
+- 2) Configure your 'hosts' to map hostnames to IP addresses:
 
