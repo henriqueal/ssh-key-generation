@@ -6,4 +6,4 @@
 ```
 
 - 2) Configure your 'hosts' to map hostnames to IP addresses:
-
+-- 2.1) teste
